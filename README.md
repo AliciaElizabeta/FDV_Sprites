@@ -9,6 +9,8 @@ Para mover al zombie se usa un transform.position y para saltar se usa el rigidb
    
 Para el zombie se han creado tres animaciones a partir de los sprites y para el goblin dos. Ambos cuentan con sus respectivas máquinas de estados. Las animaciones del zombie son iddle, dead, y move. Para el Goblin son iddle y attack.
 Para girar el sprite en el movimiento se emplea la función flip.
+
+
    ![](gifs/gif2.gif)
 
 
